@@ -1,4 +1,4 @@
-# tek_brown_capstone2
+# Small Area Income and Poverty Estimates (SAIPE) School District Census Data Analysis Project
 
 This project deals with the analysis of SAIPE School District Census data in regards to child poverty populations in United States school districts. We are analyzing the quantity of students in poverty in each school district in relation to the district population and student population of that district. We also look at quantity per region of the U.S and states located in those regions.
 
